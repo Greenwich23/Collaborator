@@ -65,7 +65,7 @@
     font-size: 18px;
     font-weight: 700;
     text-transform: uppercase;
-    color: var(--dark);
+    color: var(--secondary);
     outline: none;
     transition: .5s;
 }
